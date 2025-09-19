@@ -83,7 +83,7 @@ You can also upload your own CSV/JSON files using the app.
 
 *(Add a screenshot of your Streamlit dashboard running here)*  
 ![App Screenshot](https://github.com/hetpatel1812/INFOSYS_Task/blob/main/Task_1/assets/Screenshot_1.png?raw=true)
-![App Screenshot](https://user-images.githubusercontent.com/.../screenshot.png)
+![App Screenshot](https://github.com/hetpatel1812/INFOSYS_Task/blob/main/Task_1/assets/Screenshot_2.png?raw=true)
 ---
 
 ## 👤 Author  
