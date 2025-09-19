@@ -80,8 +80,6 @@ You can also upload your own CSV/JSON files using the app.
 ---
 
 ## 🖼️ Screenshot  
-
-*(Add a screenshot of your Streamlit dashboard running here)*  
 ![App Screenshot](https://github.com/hetpatel1812/INFOSYS_Task/blob/main/Task_1/assets/Screenshot_1.png?raw=true)
 ![App Screenshot](https://github.com/hetpatel1812/INFOSYS_Task/blob/main/Task_1/assets/Screenshot_2.png?raw=true)
 ---
@@ -89,7 +87,7 @@ You can also upload your own CSV/JSON files using the app.
 ## 👤 Author  
 
 **Het Patel**  
-🔗 GitHub Repo: [Weekend Project](<your-github-repo-link>)  
+🔗 GitHub Repo: [Task_1](https://github.com/hetpatel1812/INFOSYS_Task/tree/main/Task_1)  
 
 ---
 
