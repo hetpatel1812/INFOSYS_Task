@@ -130,7 +130,7 @@ streamlit run app.py
 
 1. **Clone the repository**
 ```bash
-git clone <https://github.com/hetpatel1812/INFOSYS_Task>
+git clone https://github.com/hetpatel1812/INFOSYS_Task/tree/main
 cd fitpulse_project
 ```
 
