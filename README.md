@@ -17,10 +17,9 @@ This repository contains implementations for all three tasks of the FitPulse Hea
 
 ```
 INFOSYS_Tasks/
-├── task1_streamlit_app.py             # Task 1: Project Setup Dashboard
-├── task2_format_mastery.py            # Task 2: Multi-Format Loader
-├── task3_timestamp_normalizer.py      # Task 3: Timezone Processing
-├── requirements.txt                   # Dependencies
+├── streamlit_app.py             # Task 1: Project Setup Dashboard
+├── app.py                       # Task 2: Multi-Format Loader
+├── app.py                       # Task 3: Timezone Processing
 └── README.md                          # This documentation
 ```
 
