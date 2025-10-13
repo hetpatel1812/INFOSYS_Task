@@ -19,16 +19,16 @@ The project focuses on **data format flexibility**, **robust error handling**, a
 
 | Section | Description |
 |----------|-------------|
-| [🚀 Features] | Key highlights of the project |
-| [⚙️ Installation](#️-installation) | Setup and environment steps |
-| [▶️ Usage](#️-usage) | How to run and use the app |
-| [🧭 Dashboard Tabs](#-dashboard-tabs-overview) | Overview of dashboard sections |
-| [🧠 Error Handling](#-error-handling-capabilities) | Built-in error management |
-| [📦 Dependencies](#-dependencies) | Required Python libraries |
-| [🧰 Troubleshooting](#-troubleshooting) | Common issues and solutions |
-| [👥 Contributors](#-contributors) | Project authors or maintainers |
-| [🪪 License](#-license) | Licensing details |
-| [🎯 Achievements](#-task-2-achievements) | Summary of deliverables |
+| 🚀 Features| Key highlights of the project |
+| ⚙️ Installation | Setup and environment steps |
+| ▶️ Usage | How to run and use the app |
+| 🧭 Dashboard Tabs | Overview of dashboard sections |
+| 🧠 Error Handling | Built-in error management |
+| 📦 Dependencies | Required Python libraries |
+| 🧰 Troubleshooting | Common issues and solutions |
+| 👥 Contributors | Project authors or maintainers |
+| 🪪 License]| Licensing details |
+| 🎯 Achievements| Summary of deliverables |
 
 ---
 
