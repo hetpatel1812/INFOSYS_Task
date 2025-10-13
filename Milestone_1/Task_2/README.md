@@ -19,7 +19,7 @@ The project focuses on **data format flexibility**, **robust error handling**, a
 
 | Section | Description |
 |----------|-------------|
-| [🚀 Features](#-features) | Key highlights of the project |
+| [🚀 Features] | Key highlights of the project |
 | [⚙️ Installation](#️-installation) | Setup and environment steps |
 | [▶️ Usage](#️-usage) | How to run and use the app |
 | [🧭 Dashboard Tabs](#-dashboard-tabs-overview) | Overview of dashboard sections |
